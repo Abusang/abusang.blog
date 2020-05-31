@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(7, 126, 173);
+    padding:0;
+    margin:0;
+}
+nav{
+    background-color: rgb(22, 22, 22);
+    padding:2px 0 5px 0;
+    margin-top: 10px;
+    margin-left: 7px;
+    margin-right:7px;
+    border-radius: 20px;
+}
+header{
+    margin-bottom:500px;
+}
+.nav_list{
+    list-style-type: none;
+    text-align: right;
+}
+.nav_list li{
+    display:inline-block;
+    padding-right:8px;
+    font-size:20px;
+    margin-right: 15px;
+}
+.nav_list li a{
+    color:white;
+    text-decoration: none;
+}
+.nav_list li a:hover{
+    color:gray;
+    text-decoration: underline;
+}
+.title{
+    font-size: 30px;
+    margin:0;
+    height:0;
+    color:white;
+    padding-top: 5px;
+    padding-left:15px;
+}
+.nav_first_a{
+    display:inline;
+    color:white;
+    text-decoration: none;
+    margin-top:15px;
+    
+}
+.nav_first_a:hover{
+    text-decoration: overline;
+}
+.author_div{
+    display:inline-block;
+    background-color: rgb(85, 82, 82);
+    margin-top: 15px;
+    margin-left:15px;
+    padding-right:100px;
+    padding-bottom: 400px;
+    height:auto;
+    width:auto;
+    border-radius: 15px;
+	
+}
+.author_name{
+   display:inline;
+   font-size:35px;
+   color:orange; 
+    
+    
+    
+}
+.author_logo{
+    display:inline;
+    padding-top: 35px;
+    padding-left: 15px;
+    height:50px;
+    width:50px;
+    
+}
+.author_say{
+    display:table;
+    font-size: 18px;
+    padding-left: 50px;
+    padding-top:5px;
+    color:rgb(38, 146, 150);
+}
+
+
+.contanier_title{
+    background-color: rgb(175, 147, 147);
+    display:inline-block;
+    padding-right:100px;
+    padding-bottom: 400px;
+    margin-left: 15px;
+    margin-top:15px;
+    margin-right:15px;
+    border-radius:15px;
+    height:auto;
+    width:auto;
+
+}
+.contanier_p_title{
+    font-size: 25px;
+    color:black;
+    
+}
